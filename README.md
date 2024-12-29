@@ -7,10 +7,12 @@ To get started with C#, my preference is Visual Studio Enterprise because it’s
 Install the C# extension for VS Code.
 
 Open the terminal in VS Code and check the .NET version using:
+
 "dotnet --version"
 
 Create a project in the terminal:
-dotnet new console -n MyConsoleApp
+
+<< dotnet new console -n MyConsoleApp >>
 
 Build the project:
 dotnet build
