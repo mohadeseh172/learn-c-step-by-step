@@ -12,10 +12,12 @@ Open the terminal in VS Code and check the .NET version using:
 
 Create a project in the terminal:
 
-<< dotnet new console -n MyConsoleApp >>
+"dotnet new console -n MyConsoleApp"
 
 Build the project:
-dotnet build
+
+" dotnet build "
 
 Run the project:
-dotnet run
+
+" dotnet run "
