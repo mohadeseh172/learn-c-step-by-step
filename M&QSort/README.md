@@ -1,0 +1,1 @@
+Here is an example of code in C# and .NET that includes sorting using the Merge Sort and Quick Sort algorithms, as well as binary search. This program allows you to compare the performance of these algorithms.
