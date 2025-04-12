@@ -1,5 +1,1 @@
-This project involves building a binary tree where you can add nodes and run three types of traversal algorithms:
-
-Preorder Traversal: root → left → right
-Inorder Traversal: Left → Root → Right
-Postorder Traversal: Left → Right → Root
+This project involves building a calculator that when user type HISTORY we show the HISTORY file and when type finish we get out of program and when type Phrase we calculate Phrase
